@@ -3,6 +3,7 @@ import Header from './Header';
 import GoalSection from './GoalSection';
 import TeamSection from './TeamSection';
 import ReferencesSection from './ReferencesSection';
+import './App.css';
 
 const App = () => {
   return (

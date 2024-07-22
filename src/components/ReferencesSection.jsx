@@ -2,8 +2,8 @@ import React from 'react';
 import { Container, Typography, Box, Link, List, ListItem } from '@mui/material';
 
 const references = [
-  { title: 'Jam Graypaper', url: 'https://example.com/jam-graypaper' },
-  { title: 'Jam Protocol Overview', url: 'https://example.com/jam-overview' },
+  { title: 'Jam Graypaper', url: 'https://graypaper.com/' },
+  { title: 'Jam Graypaper Repo', url: 'https://github.com/gavofyork/graypaper' },
 ];
 
 const ReferencesSection = () => {
