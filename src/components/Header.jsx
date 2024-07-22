@@ -12,7 +12,7 @@ const Header = () => {
           /ˈmɑːrməˌleɪd/
         </Typography>
         <Typography variant="body1" sx={{ fontFamily: 'Roboto', textAlign: 'left' }}>
-          Marmalade - a sweet preserve made from citrus fruit. In the context of blockchain, Marmalade is a high-performance C implementation of the Jam protocol, bringing the same smoothness and richness to decentralized applications.
+          Marmalade - a sweet preserve made from citrus fruit. In the context of blockchain, Marmalade is a high-performance C++ implementation of the Jam protocol, bringing the same smoothness and richness to decentralized applications.
         </Typography>
       </Container>
     </Box>

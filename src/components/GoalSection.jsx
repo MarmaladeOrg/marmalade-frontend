@@ -9,7 +9,7 @@ const GoalSection = () => {
           <pre>
             <code>
               <span className="line-number">1 </span>
-              The Marmalade Jam C application aims to revolutionize the blockchain<br />
+              The Marmalade Jam C++ application aims to revolutionize the blockchain<br />
               <span className="line-number">2 </span>
               ecosystem by providing a <span className="highlight">high-performance</span>,<br />
               <span className="line-number">3 </span>
@@ -27,7 +27,7 @@ const GoalSection = () => {
               <span className="line-number">9 </span>
               blockchain technology with real-world applications, facilitating the growth<br />
               <span className="line-number">10 </span>
-              and adoption of decentralized systems. Marmalade's C implementation offers<br />
+              and adoption of decentralized systems. Marmalade's C++ implementation offers<br />
               <span className="line-number">11 </span>
               <span className="highlight">low-level control</span> over system resources, resulting in optimized performance that<br />
               <span className="line-number">12 </span>
@@ -71,7 +71,7 @@ const GoalSection = () => {
               <span className="line-number">31 </span>
               section 7.2 of the Jam graypaper for more details.<br />
               <span className="line-number">32 </span>
-              In summary, the Marmalade Jam C application is dedicated to advancing the<br />
+              In summary, the Marmalade Jam C++ application is dedicated to advancing the<br />
               <span className="line-number">33 </span>
               capabilities of blockchain technology, offering a <span className="highlight">high-performance</span>,<br />
               <span className="line-number">34 </span>
